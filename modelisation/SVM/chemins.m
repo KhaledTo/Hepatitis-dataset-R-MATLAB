@@ -1,0 +1,10 @@
+addpath SVM-KM
+addpath SVM-KM/AdaptScalSVM
+addpath SVM-KM/featselreg
+addpath SVM-KM/FeatureSelection
+addpath SVM-KM/kbp
+addpath SVM-KM/libsvminterface
+addpath SVM-KM/regpath
+addpath SVM-KM/svmroc
+addpath SVM-KM/utilities
+addpath SVM-KM/waveletkernelmultires
